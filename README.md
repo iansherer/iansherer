@@ -1,5 +1,7 @@
 <h2 align="center">
-Hi there 👋
+Hello there 👋
+<br>
+My name is Ian, an <a href="https://www.linkedin.com/in/iansherer/">Aspiring SOC Analyst and IT Professional</a> 💻
 
 <!--
 **iansherer/iansherer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
