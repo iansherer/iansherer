@@ -9,7 +9,7 @@ I always tackle the challenge of developing more and more diverse skill sets to 
 ## 💻 Information Technology Projects:
 
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iansherer/azure-network-protocols)
   - [Active Directory Within Azure]()
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]()
