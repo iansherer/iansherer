@@ -3,6 +3,8 @@ Hello there 👋
 <br>
 My name is Ian, an <a href="https://www.linkedin.com/in/iansherer/">Aspiring SOC Analyst and IT Professional</a> 💻
 <br>
+</p>
+
 I always tackle the challenge of developing more and more diverse skill sets to solve many problems. I am extremely passionate about everything I do and only work in things related to my passions. If I am not on my PC, you can catch me traveling, lifting, competing, and spending time with my family and friends. 
 
 <!--
