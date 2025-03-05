@@ -10,7 +10,7 @@ I always tackle the challenge of developing more and more diverse skill sets to 
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iansherer/azure-network-protocols)
-  - [Active Directory Within Azure]()
+  - [Active Directory Within Azure](https://github.com/iansherer/active-directory/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]()
   - [osTicket: Post-Installation Configuration]()
